@@ -1,0 +1,2 @@
+name,price
+"<bound method SelectorList.get of [<Selector xpath=""descendant-or-self::a[@class and contains(concat(' ', normalize-space(@class), ' '), ' kakh3 ')]/text()"" data='Бонусная программа'>, <Selector xpath=""descendant-or-self::a[@class and contains(concat(' ', normalize-space(@class), ' '), ' kakh3 ')]/text()"" data='Пневматика O.M.E.R. Airbalete без кат...'>, <Selector xpath=""descendant-or-self::a[@class and contains(concat(' ', normalize-space(@class), ' '), ' kakh3 ')]/text()"" data='Пневматика O.M.E.R. Airbalete Camoufl...'>]>",34 100
